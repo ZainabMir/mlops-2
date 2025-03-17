@@ -7,7 +7,7 @@ seaborn==0.13.2
 matplotlib==3.9.4
 statsmodels==0.14.4
 missingno==0.5.2
-networkx==3.3
+networkx==3.2.1
 
 # Profiling and reporting tools
 phik==0.12.4
