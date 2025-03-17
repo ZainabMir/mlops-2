@@ -1,0 +1,20 @@
+# Essential packages for running EDA
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.15.2
+scikit-learn==1.3.2
+seaborn==0.13.2
+matplotlib==3.10.0
+statsmodels==0.14.4
+missingno==0.5.2
+networkx==3.4.2
+
+# Profiling and reporting tools
+phik==0.12.4
+ydata-profiling==4.14.0
+
+# Other utilities
+requests==2.32.3
+urllib3==2.3.0
+tqdm==4.67.1
+PyYAML==6.0.2
