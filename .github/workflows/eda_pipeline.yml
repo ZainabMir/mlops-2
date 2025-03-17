@@ -1,4 +1,4 @@
-name: Automated EDA
+name: EDA Pipeline
 
 on:
   push:
@@ -7,9 +7,10 @@ on:
   pull_request:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
-  eda_report:
+  run-eda:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,17 +24,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m venv venv
-          source venv/bin/activate
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Run EDA script
-        run: |
-          source venv/bin/activate
-          python scripts/eda.py
+        run: python scripts/eda.py
 
       - name: Upload EDA Report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: eda-report
           path: reports/
