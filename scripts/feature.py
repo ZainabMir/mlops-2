@@ -1,5 +1,5 @@
 import pandas as pd
-
+import os 
 
 # Load Dataset
 column_names = ["age", "workclass", "fnlwgt", "education", "education-num", "marital-status", 
@@ -33,4 +33,7 @@ df["is_married"] = df["marital-status"].apply(lambda x: 1 if "Married" in x else
 
 print(df.head())
 
-df.to_csv("data/features.csv", index=False)
+
+ 
+os.makedirs('data/features', exist_ok=True)  
+df.to_csv("data/features/features.csv")
