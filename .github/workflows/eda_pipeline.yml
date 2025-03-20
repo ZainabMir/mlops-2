@@ -35,3 +35,6 @@ jobs:
         with:
           name: eda-report
           path: reports/
+
+      - name: Run Feature script
+        run: python scripts/feature.py
