@@ -49,8 +49,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 # AutoML Model Selection
 print("Initializing AutoML model...")
 automl = autosklearn.classification.AutoSklearnClassifier(
-    time_left_for_this_task=600,  # Total search time in seconds
-    per_run_time_limit=60,  # Time limit per model
+    time_left_for_this_task=1800,  # Total search time in seconds
+    per_run_time_limit=200,  # Time limit per model
     ensemble_size=1,  # Select only the best model
 )
 
