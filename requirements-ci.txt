@@ -19,3 +19,6 @@ requests==2.32.2
 urllib3==2.3.0
 tqdm==4.67.1
 PyYAML==6.0.2
+
+shap 
+lime 
