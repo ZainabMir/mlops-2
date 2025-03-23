@@ -1,0 +1,16 @@
+artifact_uri: /home/bhaskar/Documents/Personal/Study/BITS/SEM III/mlops/Assignemnt/Assignemnt
+  2/mlruns/987327756619796091/aecda29835494fd4a177bd061e6c50ce/artifacts
+end_time: 1742713692080
+entry_point_name: ''
+experiment_id: '987327756619796091'
+lifecycle_stage: active
+run_id: aecda29835494fd4a177bd061e6c50ce
+run_name: selective-slug-714
+run_uuid: aecda29835494fd4a177bd061e6c50ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742713689162
+status: 3
+tags: []
+user_id: bhaskar

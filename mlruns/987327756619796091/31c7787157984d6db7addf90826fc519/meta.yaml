@@ -1,0 +1,16 @@
+artifact_uri: /home/bhaskar/Documents/Personal/Study/BITS/SEM III/mlops/Assignemnt/Assignemnt
+  2/mlruns/987327756619796091/31c7787157984d6db7addf90826fc519/artifacts
+end_time: 1742713796426
+entry_point_name: ''
+experiment_id: '987327756619796091'
+lifecycle_stage: active
+run_id: 31c7787157984d6db7addf90826fc519
+run_name: kindly-owl-611
+run_uuid: 31c7787157984d6db7addf90826fc519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742713794483
+status: 3
+tags: []
+user_id: bhaskar

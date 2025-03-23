@@ -1,0 +1,16 @@
+artifact_uri: /home/bhaskar/Documents/Personal/Study/BITS/SEM III/mlops/Assignemnt/Assignemnt
+  2/mlruns/987327756619796091/54cdc0081b9d4c7698a4289bd5da4c17/artifacts
+end_time: 1742713310766
+entry_point_name: ''
+experiment_id: '987327756619796091'
+lifecycle_stage: active
+run_id: 54cdc0081b9d4c7698a4289bd5da4c17
+run_name: rumbling-fowl-823
+run_uuid: 54cdc0081b9d4c7698a4289bd5da4c17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742713308000
+status: 3
+tags: []
+user_id: bhaskar

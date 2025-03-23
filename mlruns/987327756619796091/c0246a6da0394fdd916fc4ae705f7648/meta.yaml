@@ -1,0 +1,16 @@
+artifact_uri: /home/bhaskar/Documents/Personal/Study/BITS/SEM III/mlops/Assignemnt/Assignemnt
+  2/mlruns/987327756619796091/c0246a6da0394fdd916fc4ae705f7648/artifacts
+end_time: 1742713854785
+entry_point_name: ''
+experiment_id: '987327756619796091'
+lifecycle_stage: active
+run_id: c0246a6da0394fdd916fc4ae705f7648
+run_name: upset-perch-138
+run_uuid: c0246a6da0394fdd916fc4ae705f7648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742713851743
+status: 3
+tags: []
+user_id: bhaskar

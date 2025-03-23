@@ -1,0 +1,16 @@
+artifact_uri: /home/bhaskar/Documents/Personal/Study/BITS/SEM III/mlops/Assignemnt/Assignemnt
+  2/mlruns/987327756619796091/61e3bba3df01422099a81387b6994d18/artifacts
+end_time: 1742713946707
+entry_point_name: ''
+experiment_id: '987327756619796091'
+lifecycle_stage: active
+run_id: 61e3bba3df01422099a81387b6994d18
+run_name: abrasive-tern-814
+run_uuid: 61e3bba3df01422099a81387b6994d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742713944469
+status: 3
+tags: []
+user_id: bhaskar

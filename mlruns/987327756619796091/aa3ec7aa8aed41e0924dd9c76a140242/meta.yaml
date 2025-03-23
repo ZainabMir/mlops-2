@@ -1,0 +1,16 @@
+artifact_uri: /home/bhaskar/Documents/Personal/Study/BITS/SEM III/mlops/Assignemnt/Assignemnt
+  2/mlruns/987327756619796091/aa3ec7aa8aed41e0924dd9c76a140242/artifacts
+end_time: 1742713971677
+entry_point_name: ''
+experiment_id: '987327756619796091'
+lifecycle_stage: active
+run_id: aa3ec7aa8aed41e0924dd9c76a140242
+run_name: rumbling-squirrel-33
+run_uuid: aa3ec7aa8aed41e0924dd9c76a140242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742713968618
+status: 3
+tags: []
+user_id: bhaskar
