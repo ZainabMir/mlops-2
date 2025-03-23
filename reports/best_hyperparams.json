@@ -1,0 +1,7 @@
+{
+    "learning_rate": 0.013266625255511137,
+    "max_iter": 850,
+    "max_leaf_nodes": 17,
+    "min_samples_leaf": 17,
+    "l2_regularization": 1.2722760049746833e-10
+}

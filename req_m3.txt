@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+auto-sklearn
+optuna
+xgboost
+tabulate
