@@ -1,0 +1,16 @@
+artifact_uri: /home/bhaskar/Documents/Personal/Study/BITS/SEM III/mlops/Assignemnt/Assignemnt
+  2/mlruns/987327756619796091/c1799c10416f466a82e106d88df55e67/artifacts
+end_time: 1742723474343
+entry_point_name: ''
+experiment_id: '987327756619796091'
+lifecycle_stage: active
+run_id: c1799c10416f466a82e106d88df55e67
+run_name: redolent-steed-797
+run_uuid: c1799c10416f466a82e106d88df55e67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742723469313
+status: 3
+tags: []
+user_id: bhaskar
